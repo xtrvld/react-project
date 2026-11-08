@@ -1,9 +1,9 @@
 const JsxIntro = () => {
     return <div>
-        <p class="123">abc</p>
-        <p class="234">abc</p>
-        <p class="345">abc</p>
-        <p class="456">abc</p>
+        <p className="123">abc</p>
+        <p className="234">abc</p>
+        <p className="345">abc</p>
+        <p className="456">abc</p>
     </div>
 }
 
